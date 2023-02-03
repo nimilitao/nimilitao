@@ -1,4 +1,4 @@
-<h5>Hi people, I'm Nicolas and I really like the areas of entrepreneurship, astronomy and technology</h5>
+<h4>Hi people, I'm Nicolas and I really like the areas of entrepreneurship, astronomy and technology</h4>
 
 <h6><em>— see some of my projects 👽</em></h6>
 
