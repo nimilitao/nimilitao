@@ -1,4 +1,6 @@
-### Hi there 👋
+<h5>Hi people, I'm Nicolas and I really like the areas of entrepreneurship, astronomy and technology</h5>
+
+<h6><em>— see some of my projects 👽</em></h6>
 
 <!--
 **nimilitao/nimilitao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
