@@ -2,7 +2,7 @@
 
 <samp>
 <p> 🌊 My favorite food is Strogonoff. I love watching anything: series, movies, or anime. I also enjoy hitting the gym and drawing whenever I have the time. My biggest dream is to achieve financial freedom so I can travel wherever I want, especially to places connected to nature like beaches, mountains, and all the breathtaking landscapes this pale blue dot has to offer.  </p>
-<p> 💻 I' m currently working at <a href="https://www.ifood.com.br" target="_blank">iFood</a>, a FoodTech that owns the leading food delivery platform in Latin America. I'm part of the Payment Engines team, which focuses on microservices architecture, primarily working with Golang on the backend. I also contribute to infrastructure-related tasks.</p>
+<p> 💻 I' m currently working at <a href="https://www.ifood.com.br" target="_blank">iFood</a>, a FoodTech that owns the leading food delivery platform in Latin America. I'm part of the Card Platform team, which focuses on microservices architecture, primarily working with Golang and Kotlin on the backend. I also contribute to infrastructure-related tasks.</p>
   
 Gmail: nicolasmilivotto@gmail.com <br/>
 Linkedin: https://www.linkedin.com/in/nimilitao/
