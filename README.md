@@ -8,7 +8,7 @@ Gmail: nicolasmilivotto@gmail.com <br/>
 Linkedin: https://www.linkedin.com/in/nimilitao/
 <br/><br/>
 Stack<br/>
-Go, Python, Java, Javascript, Typescript, Docker, AWS, Vercel, Tailwindcss, PostgresSql, SqlServer, Git, Gitlab, Datadpg
+Go, Python, Java, Javascript, Typescript, Docker, AWS, Vercel, Tailwindcss, PostgresSql, SqlServer, Git, Gitlab, Datadog
 
 <!--
 *nimilitao/nimilitao* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
